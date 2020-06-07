@@ -67,8 +67,8 @@ def tik():
 
 
 back = 0
-it works = []
-checkpoint = []
+berhasil = []
+cekpoint = []
 oks = []
 id = []
 listgrup = []
